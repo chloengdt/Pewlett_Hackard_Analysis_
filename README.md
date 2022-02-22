@@ -19,4 +19,4 @@
 ![Screen Shot 2022-02-22 at 2 51 32 AM](https://user-images.githubusercontent.com/96552197/155117669-83b7df22-af33-48f2-96a6-aa1a76003acc.png)
 
 ## Summary
- The analysis analyzes the Employees Database generate report of the total number of former and current employees that reach retirement age together with their titles which helps the manager make decisions on new hires in the futures. The mentorship eligibilty analysis provide the potential resource of mentorship to train new employees in the future. These insight will prepare the company better for the "silver tsunami" ahead.
+ The analysis analyzes the Employees Database to generate the report of the total number of employees (former and current)  with job titles that reach retirement age. This is helpful for company to make decisions on new hires in the futures. The mentorship eligibilty analysis provides the potential resources of mentorship to train new employees. These insightful information will prepare the company better for the "silver tsunami" ahead.
